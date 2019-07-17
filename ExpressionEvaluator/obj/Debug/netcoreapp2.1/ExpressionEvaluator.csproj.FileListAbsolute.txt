@@ -1,0 +1,11 @@
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/bin/Debug/netcoreapp2.1/ExpressionEvaluator.deps.json
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/bin/Debug/netcoreapp2.1/ExpressionEvaluator.runtimeconfig.json
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/bin/Debug/netcoreapp2.1/ExpressionEvaluator.runtimeconfig.dev.json
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/bin/Debug/netcoreapp2.1/ExpressionEvaluator.dll
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/bin/Debug/netcoreapp2.1/ExpressionEvaluator.pdb
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.csprojAssemblyReference.cache
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.csproj.CoreCompileInputs.cache
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.AssemblyInfoInputs.cache
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.AssemblyInfo.cs
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.dll
+/Users/alenayuryeva/dev/C#/projects/ExpressionEvaluator/ExpressionEvaluator/obj/Debug/netcoreapp2.1/ExpressionEvaluator.pdb
